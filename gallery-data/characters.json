@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-15T16:21:41.148Z",
+  "characters": [
+    {
+      "id": "7520f765-e9e1-4fd1-9421-0627a3b6333d",
+      "slug": "koyori",
+      "name": "Koyori",
+      "description": "Nhà bác học đại tài, chuyên chế những thứ.....vô cùng kỳ quái",
+      "tags": [
+        "Hololive"
+      ],
+      "cover": {
+        "name": "HJyk78qXoAAf9J8.jpg",
+        "path": "gallery-data/characters/koyori/cover_1792081293706_hjyk78qxoaaf9j8.jpg",
+        "uploadedAt": "2026-10-15T16:21:33.699Z"
+      },
+      "images": [
+        {
+          "id": "d266cbf4-c15c-40ce-891b-0ed7bd2a60ef",
+          "name": "HJyk78qXoAAf9J8.jpg",
+          "path": "gallery-data/characters/koyori/1792081298000_1_hjyk78qxoaaf9j8.jpg",
+          "uploadedAt": "2026-10-15T16:21:41.137Z"
+        }
+      ],
+      "createdAt": "2026-10-15T16:21:33.699Z",
+      "updatedAt": "2026-10-15T16:21:41.148Z"
+    }
+  ]
+}
