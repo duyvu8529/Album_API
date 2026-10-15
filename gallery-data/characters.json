@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T16:30:47.476Z",
+  "updatedAt": "2026-10-15T16:30:59.867Z",
   "characters": [
     {
       "id": "7520f765-e9e1-4fd1-9421-0627a3b6333d",
@@ -75,10 +75,16 @@
           "name": "88d2ebc64ee7270ded03f0ad0f368818.jpg",
           "path": "gallery-data/characters/rory-mercury/1792081844817_1_88d2ebc64ee7270ded03f0ad0f368818.jpg",
           "uploadedAt": "2026-10-15T16:30:47.476Z"
+        },
+        {
+          "id": "a8747ef3-6116-4749-acb5-7380d8af9441",
+          "name": "cee9b269a859ef4d14626e7e67479d57.jpg",
+          "path": "gallery-data/characters/rory-mercury/1792081857414_1_cee9b269a859ef4d14626e7e67479d57.jpg",
+          "uploadedAt": "2026-10-15T16:30:59.867Z"
         }
       ],
       "createdAt": "2026-10-15T16:29:20.263Z",
-      "updatedAt": "2026-10-15T16:30:47.476Z"
+      "updatedAt": "2026-10-15T16:30:59.867Z"
     }
   ]
 }
