@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T16:21:41.148Z",
+  "updatedAt": "2026-10-15T16:29:24.856Z",
   "characters": [
     {
       "id": "7520f765-e9e1-4fd1-9421-0627a3b6333d",
@@ -25,6 +25,30 @@
       ],
       "createdAt": "2026-10-15T16:21:33.699Z",
       "updatedAt": "2026-10-15T16:21:41.148Z"
+    },
+    {
+      "id": "e631438c-1a54-4b56-a3f8-3b6449744ae7",
+      "slug": "rory-mercury",
+      "name": "Rory Mercury",
+      "description": "Dễ thương, lém lĩnh, nếu bạn thật sự thú vị trong mắt bé này, không thì.....hên xui đầu lìa khỏi cổ vì bé nó là Yandere nha 🤣🤣",
+      "tags": [
+        "Fantasy"
+      ],
+      "cover": {
+        "name": "cee9b269a859ef4d14626e7e67479d57.jpg",
+        "path": "gallery-data/characters/rory-mercury/cover_1792081760264_cee9b269a859ef4d14626e7e67479d57.jpg",
+        "uploadedAt": "2026-10-15T16:29:20.263Z"
+      },
+      "images": [
+        {
+          "id": "d3356aec-d2c5-4bcc-8bbf-517c53b010ee",
+          "name": "0897c513921765a3b40bc7176c789456.jpg",
+          "path": "gallery-data/characters/rory-mercury/1792081762284_1_0897c513921765a3b40bc7176c789456.jpg",
+          "uploadedAt": "2026-10-15T16:29:24.845Z"
+        }
+      ],
+      "createdAt": "2026-10-15T16:29:20.263Z",
+      "updatedAt": "2026-10-15T16:29:24.856Z"
     }
   ]
 }
