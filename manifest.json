@@ -55,10 +55,17 @@
           "name": "1000478925.jpg",
           "size": 33470,
           "uploadedAt": 1792215823974
+        },
+        {
+          "id": "img-1792216019941-zawb0x",
+          "path": "images/char-1792215780817-htehhd/img-1792216017162-1000478932.jpg",
+          "name": "1000478932.jpg",
+          "size": 174114,
+          "uploadedAt": 1792216019961
         }
       ],
       "createdAt": 1792215782710,
-      "updatedAt": 1792216001779
+      "updatedAt": 1792216019961
     }
   ]
 }
