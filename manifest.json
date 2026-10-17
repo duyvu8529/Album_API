@@ -8,13 +8,6 @@
       "coverPath": "images/char-1792215780817-htehhd/cover-1792215780880-1000478925.jpg",
       "images": [
         {
-          "id": "img-1792215808178-lwc52d",
-          "path": "images/char-1792215780817-htehhd/img-1792215805931-1000478932.jpg",
-          "name": "1000478932.jpg",
-          "size": 174114,
-          "uploadedAt": 1792215808197
-        },
-        {
           "id": "img-1792215810533-7781pf",
           "path": "images/char-1792215780817-htehhd/img-1792215808285-1000478929.jpg",
           "name": "1000478929.jpg",
@@ -65,7 +58,7 @@
         }
       ],
       "createdAt": 1792215782710,
-      "updatedAt": 1792215823974
+      "updatedAt": 1792216001779
     }
   ]
 }
